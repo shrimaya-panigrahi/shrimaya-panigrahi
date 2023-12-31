@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1onlxpx7G-QlGBIvlnmOk50Uo7FWtLzxe/view?usp=sharing)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
