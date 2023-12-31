@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1onlxpx7G-QlGBIvlnmOk50Uo7FWtLzxe/view?usp=sharing)](https://rishavchanda.io)
+[![MasterHead](https://c0.wallpaperflare.com/preview/636/118/480/commerce-africa-asia-australia.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
