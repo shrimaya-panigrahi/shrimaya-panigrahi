@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/m0Pp9qP"><img src="https://i.ibb.co/m0Pp9qP/Software.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=996&t=st=1705651293~exp=1705651893~hmac=ae607fb9edacc9aacd5ec056d378c28c47a948da067de3a6158a209923eefb98)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
