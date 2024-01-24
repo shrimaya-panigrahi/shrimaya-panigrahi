@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrimaya_" target="blank"><img src="https://img.shields.io/twitter/follow/shrimaya_?logo=twitter&style=for-the-badge" alt="shrimaya_" /></a> </p>
 
-- 📫 How to reach me **1shrimaya@gmail.com**
+- 📫 How to reach me ****https://www.linkedin.com/in/shrimaya-panigrahi/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
