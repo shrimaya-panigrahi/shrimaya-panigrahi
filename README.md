@@ -24,7 +24,7 @@
 <a href="https://profiles.topcoder.com/shrimaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/shrimaya" height="30" width="40" /></a>
 <a href="https://github.com/shrimaya-panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://profiles.topcoder.com/shrimaya" height="30" width="40" /></a>
 
-<a href="https://www.codingninjas.com/studio/profile/shrimaya" target="blank"><img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="https://profiles.topcoder.com/shrimaya" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/shrimaya" target="blank"><img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="https://profiles.topcoder.com/shrimaya" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
