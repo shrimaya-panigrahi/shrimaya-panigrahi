@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
-<h2  align="center" style="color:Tomato;">SKILLS</h2>
+<h2  align="center">SKILLS</h2>
 <h3 align="center">Front-End     ↔    Back-End    ↔    Full-Stack</h3>
 
 
