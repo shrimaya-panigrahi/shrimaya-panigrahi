@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=996&t=st=1705651293~exp=1705651893~hmac=ae607fb9edacc9aacd5ec056d378c28c47a948da067de3a6158a209923eefb98)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?w=1380&t=st=1707315260~exp=1707315860~hmac=bc038cb0b370ed9365ae89e2f050ac669eb8dc182a7e08a796c75385125bea0e)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
