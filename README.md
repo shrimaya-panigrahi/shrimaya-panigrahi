@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
 <h2  align="center">SKILLS</h2>
-<h2  align="center">MERN Stack</h2>
+<h3  align="center">MERN Stack</h3>
 
-<h3 align="center">Front-End     ↔    Back-End    ↔    Full-Stack</h3>
+<h3 align="center">Front-End  ↔  Back-End  ↔  Full-Stack</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
