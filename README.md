@@ -5,7 +5,7 @@
 <h1 align="center">SKILLS</h1>
 <h2  align="center">* MERN Stack *</h2>
 
-<h3 align="center">Front-End  <span>&#10132;</span>  Full-Stack  <span>&#10134;</span>  Back-End</h3>
+<h3 align="center">Front-End  <span>&#8656;</span>  Full-Stack  <span>&#8658;</span>  Back-End</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
