@@ -1,9 +1,9 @@
-[![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?w=1380&t=st=1707315260~exp=1707315860~hmac=bc038cb0b370ed9365ae89e2f050ac669eb8dc182a7e08a796c75385125bea0e)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/running-business-people-completing-challenges-starting-new-career-isometric-infographic-blue-background-vector-illustration_1284-83717.jpg?t=st=1731141082~exp=1731144682~hmac=4e2622e4c370b6e5adffca1fa4dfe198f06020e6ba5664864acb94ad61447192&w=1380)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India</h3>
 <h1 align="center">SKILLS</h1>
-<h2  align="center">* MERN Stack *</h2>
+<h2  align="center">* Software Engineer *</h2>
 
 <h3 align="center">Front-End  <span>&#8652;</span>  Back-End  <span>&#8651;</span>  Full-Stack</h3>
 
