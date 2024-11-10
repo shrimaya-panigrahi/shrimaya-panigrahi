@@ -1,9 +1,9 @@
 [![MasterHead](https://img.freepik.com/free-vector/running-business-people-completing-challenges-starting-new-career-isometric-infographic-blue-background-vector-illustration_1284-83717.jpg?t=st=1731141082~exp=1731144682~hmac=4e2622e4c370b6e5adffca1fa4dfe198f06020e6ba5664864acb94ad61447192&w=1380)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
-<h2 align="center">Aspiring Software Development Engineer</h2>
+<h2 align="center">Software Development Engineer</h2>
 <h1 align="center">SKILLS</h1>
-<h2  align="center">* Software Engineer *</h2>
+<h2  align="center">C , C++ , Java , Python , Javascript , Rust , Data Structures and Algorithms , System Design , Full Stack Developer</h2>
 
 <h4 align="center">"I aspire to become an Artificial Intelligence Architect, focusing on designing, implementing, and optimizing <br> Artificial Intelligence systems for impactful, real-world applications."</h4>
 
