@@ -10,13 +10,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left"> <a href="https://twitter.com/shrimaya_" target="blank"><img src="https://img.shields.io/twitter/follow/shrimaya_?logo=twitter&style=for-the-badge" alt="shrimaya_" /></a> </p>
+<p align="left"> <a href="https://x.com/shrimaya_" target="blank"><img src="https://img.shields.io/twitter/follow/shrimaya_?logo=twitter&style=for-the-badge" alt="shrimaya_" /></a> </p>
 
 - 📫 How to reach me ****https://www.linkedin.com/in/shrimaya-panigrahi/****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shrimaya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrimaya_" height="30" width="40" /></a>
+<a href="https://x.com/shrimaya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrimaya_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shrimaya-panigrahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrimaya-panigrahi/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shrimaya_panigrahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shrimaya_panigrahi/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ShrimayaPanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@shrimayapanigrahi" height="30" width="40" /></a>
