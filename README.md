@@ -5,7 +5,7 @@
 <h1 align="center">SKILLS</h1>
 <h2  align="center">* Software Engineer *</h2>
 
-<h4 align="center">"I aspire to become an Artificial Intelligence Architect, focusing on designing, implementing, and optimizing Artificial Intelligence systems for impactful, real-world applications."</h4>
+<h4 align="center">"I aspire to become an Artificial Intelligence Architect, focusing on designing,\b implementing, and optimizing Artificial Intelligence systems for impactful, real-world applications."</h4>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
