@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
 <h2 align="center">Software Development Engineer</h2>
 <h1 align="center">SKILLS</h1>
-<h2  align="center">C , C++ , Java , Python , Javascript , Rust , Data Structures and Algorithms , System Design , Full Stack Developer</h2>
+<h2  align="center">C , C++ , Java , Python , Javascript , Rust , Data Structures and Algorithms , System Design , Full Stack Development</h2>
 
 <h4 align="center">"I aspire to become an Artificial Intelligence Architect, focusing on designing, implementing, and optimizing <br> Artificial Intelligence systems for impactful, real-world applications."</h4>
 
