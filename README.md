@@ -1,11 +1,11 @@
 [![MasterHead](https://img.freepik.com/free-vector/running-business-people-completing-challenges-starting-new-career-isometric-infographic-blue-background-vector-illustration_1284-83717.jpg?t=st=1731141082~exp=1731144682~hmac=4e2622e4c370b6e5adffca1fa4dfe198f06020e6ba5664864acb94ad61447192&w=1380)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shrimaya Panigrahi</h1>
-<h3 align="center">Aspiring Software Development Engineer</h3>
+<h2 align="center">Aspiring Software Development Engineer</h2>
 <h1 align="center">SKILLS</h1>
 <h2  align="center">* Software Engineer *</h2>
 
-<h3 align="center">Full-Stack</h3>
+<h3 align="center">Artificial Intelligence Architect</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
